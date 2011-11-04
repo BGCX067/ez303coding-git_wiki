@@ -1,0 +1,19 @@
+Please insert at the beginning of every program:
+
+NAME: Program Name
+LANGUAGE: Programming Language
+AUTHOR: Who wrote the original program
+EDITORS: Anyone who edited; add your name of you did!
+VERSION: Current version*
+
+
+example:
+
+NAME: Calculator
+LANGUAGE: Python
+AUTHOR: Ethan Guo
+EDITORS: -
+VERSION: 1.0.0
+
+
+*start at "1.0.0". The first number is for major additions, like completely redesigning a web page, or adding 5 more calculator functions. The next number is for smaller additions, like formatting a button into a square instead of a rounded rectangle. The last digit is for bug fixes. If you put in some comments to clear things up, don't change the version number. Also, If you are unsure if your change was a major one or minor one, or a bug fix, assume it is the smaller one.
